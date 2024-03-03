@@ -56,7 +56,7 @@ function App() {
         marginLeft: "50%",
         marginTop: "10%",
         translate: "-50%",
-        backgroundImage: `url("/public/1.jpeg")`,
+        backgroundImage: `url("/public/static/images/1.jpeg")`,
         boxShadow: "rgba(100, 100, 111, 0.2) 0px 7px 29px 0px",
         padding: "25px",
         borderRadius: "15px",

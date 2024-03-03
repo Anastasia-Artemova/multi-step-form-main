@@ -3,19 +3,19 @@ export const plans_list = [
       name: "Arcade",
       priceMonth: "$9/mo",
       priceYear: "$90/yr",
-      picture: "/public/icon-arcade.svg",
+      picture: "/public/static/images/icon-arcade.svg",
     },
     {
       name: "Advanced",
       priceMonth: "$12/mo",
       priceYear: "$120/yr",
-      picture: "/public/icon-advanced.svg",
+      picture: "/public/static/images/icon-advanced.svg",
     },
     {
       name: "Pro",
       priceMonth: "$15/mo",
       priceYear: "$150/yr",
-      picture: "/public/icon-pro.svg",
+      picture: "/public/static/images/icon-pro.svg",
     },
   ];
 

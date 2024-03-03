@@ -12,7 +12,7 @@ const ThankYouPage = () => {
       }}
     >
       <Image
-        src="/public/icon-thank-you.svg"
+        src="/public/static/images/icon-thank-you.svg"
         boxSize="50px"
         marginBottom="15px"
       />
